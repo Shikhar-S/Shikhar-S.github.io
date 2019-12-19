@@ -6,15 +6,15 @@
   description: | # this will include new lines to allow paragraphs
    ◦**Ad Retrieval**: Implemented OkapiBM25F algorithm for retrieving text ads based on search keywords. Modified the algo to use word2vec embeddings.
 
-   ◦ **Text Clustering**: Implemented K-Means, Affinity Propagation and Hierarchical clustering on search keywords for grouping user intent. Used Hive for creating data aggregation pipeline. Also developed a UI for reviewing clusters (CRUD operations)
+   ◦**Text Clustering**: Implemented K-Means, Affinity Propagation and Hierarchical clustering on search keywords for grouping user intent. Used Hive for creating data aggregation pipeline. Also developed a UI for reviewing clusters (CRUD operations)
 
-   ◦ **Constrained AB Testing**: Devised and coded an algorithm to compare performance of ad-retrieval algorithms.
+   ◦**Constrained AB Testing**: Devised and coded an algorithm to compare performance of ad-retrieval algorithms.
 
-   ◦ **Redis Cluster Migration**: Migrated twemproxy redis cluster to redis cluster to achieve better cluster management and efficient use of resources.
+   ◦**Redis Cluster Migration**: Migrated twemproxy redis cluster to redis cluster to achieve better cluster management and efficient use of resources.
 
-   ◦ **Redis Replicator**: Maintained an application to replicate data from database to redis. Added checkpointing algorithm to the app to ensure data consistency.
+   ◦**Redis Replicator**: Maintained an application to replicate data from database to redis. Added checkpointing algorithm to the app to ensure data consistency.
 
-   ◦ **Training Project-Custom Site Search**: Used Elasticsearch to index websites for customised searching. Also used Redis as a message queue for connecting with frontend.
+   ◦**Training Project-Custom Site Search**: Used Elasticsearch to index websites for customised searching. Also used Redis as a message queue for connecting with frontend.
 - layout: left
   company: Microsoft Research
   job_title: Research Intern

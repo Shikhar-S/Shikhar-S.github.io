@@ -2,7 +2,7 @@
   name: API for Computational Geometry Algorithms
   github: Shikhar-S/Computational-Geometry
   description: | # this will include new lines to allow paragraphs
-      Developed an API in C++ for generating Convex Hulls and Triangulations and Delaunay triangulation of Input Polygons.
+      Developed an API in C++ for generating Convex Hulls, Triangulations and Delaunay triangulation of Input Polygons.
 - layout: left
   name: GPU Accelarated Range Data Structures
   github: Shikhar-S/Range-Tree
