@@ -1,6 +1,6 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
 
 # Personal info
 name: Shikhar Bharadwaj
@@ -44,7 +44,7 @@ more_content: | # this will include new lines to allow paragraphs
   • **GRE Score**: 330: 169-Q, 161-V, 4 AWA
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
