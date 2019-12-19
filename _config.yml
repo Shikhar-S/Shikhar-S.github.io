@@ -3,30 +3,21 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Shikhar Bharadwaj
+title: Research student at IISc (Intelligent Systems Lab)
+email: shikharb@iisc.ac.in
+phone: '7989962442'
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+github_username:  Shikhar-S
+linkedin_username: shikhar-bharadwaj-936791114
+codeforces_username: CaptainRubik_
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/me_image.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, I am a research student at IISc, Bangalore. I am interested in Machine Learning, NLP, Computational Geometry and Algorithms. I do competitive programming for fun.
 
 # Projects Section
 # projects_title: Projects
@@ -38,13 +29,19 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Achievements
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  • **NTSE Scholarship**: Awarded by Govt of India.
+
+  • **INSPIRE Scholarship**: Awarded by Govt of India to top 1% percentile scorers in ISC. 
+
+  • **Merit Scholarship**: Top 2% of Batch in BITS Hyderabad.
+
+  • **Codechef Rating**: Country rank 533/47826, Global Rank 1229/91711 Shikhar
+
+  • **GATE CS**: Rank-107, Score-851
+
+  • **GRE Score**: 330: 169-Q, 161-V, 4 AWA
 
 # Footer
 footer_show_references: true

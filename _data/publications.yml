@@ -1,0 +1,5 @@
+- layout: left
+  name: An Extraction Based approach to Keyword generation and Precedence Retrieval
+  link: http://ceur-ws.org/Vol-2036/T3-4.pdf
+  description: | # this will include new lines to allow paragraphs
+    Precedence Retrieval involves ranking documents according to their importance for a given query. Developed an algorithm to perform keyword based summarization of document and then used thse summaries to rank documents. Published in Working Notes of Forum for Information Retrieval Evaluation (FIRE) 2017.
