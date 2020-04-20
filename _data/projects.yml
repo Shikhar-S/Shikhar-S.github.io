@@ -8,3 +8,8 @@
   github: Shikhar-S/Range-Tree
   description: | # this will include new lines to allow paragraphs
       Implemented Range Tree for Orthogonal Range Query problem in CUDA.Compared efficiency with CPU implementation for the same.
+- layout: left
+  name: Neural Machine Translation
+  github: Shikhar-S/Neural-Machine-Translation
+  description: | # this will include new lines to allow paragraphs
+      Implemented Neural Machine Translation by Jointly Learning to Align and Translate in Pytorch.
