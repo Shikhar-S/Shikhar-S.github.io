@@ -17,4 +17,4 @@
   name: Evolved Transformer
   github: Shikhar-S/EvolvedTransformer
   description: | # this will include new lines to allow paragraphs
-      Implemented Transformer and Evolved Transformer architecture in Pytorch.
+      Implemented Transformer and Evolved Transformer architectures in Pytorch.
