@@ -13,3 +13,8 @@
   github: Shikhar-S/Neural-Machine-Translation
   description: | # this will include new lines to allow paragraphs
       Implemented Neural Machine Translation by Jointly Learning to Align and Translate in Pytorch.
+- layout: left
+  name: Evolved Transformer
+  github: Shikhar-S/EvolvedTransformer
+  description: | # this will include new lines to allow paragraphs
+      Implemented Transformer and Evolved Transformer architecture in Pytorch.
