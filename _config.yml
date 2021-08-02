@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shikhar"
 title_separator          : "-"
 name                     : &name "Shikhar"
-description              : &description "personal description"
+description              : &description "I am a research student at Indian Institute of Science. My academic interests include Natural Language Processing and Algorithms."
 url                      : https://shikhar-s.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shikhar-S.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shikhar"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MTech (Research) student at Indian Institute of Science."
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -93,29 +93,15 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "Shikhar-S"
-  google_plus      :
-  keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  linkedin         : "https://www.linkedin.com/in/shikhar-bharadwaj-936791114/"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "@capt_rubik"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
   codeforces       : "https://codeforces.com/profile/CaptainRubik_"
+  codechef         : "https://www.codechef.com/users/shikhar_"
 
 
 # Reading Files
