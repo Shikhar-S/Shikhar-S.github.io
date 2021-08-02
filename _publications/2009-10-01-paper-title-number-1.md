@@ -17,4 +17,4 @@ Precedence retrieval on legal documents.
 [Download paper here](http://ceur-ws.org/Vol-2036/T3-4.pdf)
 
 Recommended citation: 'G. Sandeep, S. Bharadwaj, An extraction based approach to keyword generation and precedence
-retrieval: Bits pilani-hyderabad., in: FIRE (Working Notes), 2017, pp. 74–77.'.
+retrieval: Bits pilani-hyderabad., in: FIRE (Working Notes), 2017, pp. 74–77.'
