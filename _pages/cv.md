@@ -11,23 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Tech (Research) in Intelligent Systems, IISc, 2022 (Expected)
+* BE in Computer Science Engineering, BITS, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 - July 2020 : Machine Learning Intern 
+  * Myntra Designs Pvt Ltd. Remote, India
+  * Size Recommendation: Implemented an iterative optimisation algorithm to correct product and user size
+    measurements based on user purchase history, improving recommendation coverage by 10-23% and recommendation
+    accuracy by 5-12% across article types while keeping the measurement values interpretable.
+    
+* Aug 2018 - July 2019 : Platform Engineer
+  * Media Net  
+  * Advertisement Retrieval: Put a modified Okapi BM25F algorithm into production for retrieving textual ads
+    based on user search keywords, improving coverage over the previous regex-based algorithm, saving company
+    person-hours while keeping the retrieval latency less than 80 ms.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec 2017 - May 2018 : Research Intern
+  * Microsoft Research India
+  * The project involves contribution to Microsoft's P family of programming languages. These are domain-specific language for designing safe and robust asynchronous as well as     distributed systems. Used P3(C++ based) to develop a scalable key value store. Also improved the testing framework for P3. 
+
+* Summer 2015 : Research Intern
+  * Indira Gandhi Centre for Atomic Research Kalpakkam, India
+  * Search Engine: Implemented Information Retrieval methods like TF-IDF and Fuzzy Retrieval and compared
+    their performance with precision-recall curves. Also developed a GUI for visualizing the results.
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -35,25 +45,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
