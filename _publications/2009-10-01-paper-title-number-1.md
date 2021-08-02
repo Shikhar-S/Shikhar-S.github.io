@@ -1,5 +1,5 @@
 ---
-title: "An extraction based approach to keyword generation and precedence retrieval:"
+title: "An extraction based approach to keyword generation and precedence retrieval"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Precedence retrieval involves
