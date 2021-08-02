@@ -9,10 +9,12 @@ date: 2017
 venue: 'Working Notes of Forum
 for Information Retrieval Evaluation (FIRE) 2017'
 paperurl: 'http://ceur-ws.org/Vol-2036/T3-4.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'G. Sandeep, S. Bharadwaj, An extraction based approach to keyword generation and precedence
+retrieval: Bits pilani-hyderabad., in: FIRE (Working Notes), 2017, pp. 74–77.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Precedence retrieval on legal documents.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://ceur-ws.org/Vol-2036/T3-4.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'G. Sandeep, S. Bharadwaj, An extraction based approach to keyword generation and precedence
+retrieval: Bits pilani-hyderabad., in: FIRE (Working Notes), 2017, pp. 74–77.'.
