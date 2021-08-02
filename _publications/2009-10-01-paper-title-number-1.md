@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Precedence retrieval involves
 ranking documents according to their importance for a given query. Developed an algorithm to perform keyword-based
 summarization of documents and then used these summaries to rank documents.'
-date: 2017
+date: 1-10-2017
 venue: 'Working Notes of Forum
 for Information Retrieval Evaluation (FIRE) 2017'
 paperurl: 'http://ceur-ws.org/Vol-2036/T3-4.pdf'
