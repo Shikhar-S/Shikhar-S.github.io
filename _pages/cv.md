@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Link](https://shikhar-s.github.io/files/Shikhar_NLP_20210731.pdf)
+
 Education
 ======
 * M.Tech (Research) in Intelligent Systems, IISc, 2022 (Expected)
@@ -62,8 +64,6 @@ Achievements
 * **Codechef Rating**: Country rank 533/47826, Global Rank 1229/91711
 * **GATE CS**: Rank-107, Score-851
 * **GRE Score**: 330: 169-Q, 161-V, 4 AWA
-
-[PDF Link](https://shikhar-s.github.io/files/Shikhar_NLP_20210731.pdf)
   
 <!-- Skills
 ======
