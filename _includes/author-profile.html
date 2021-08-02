@@ -119,9 +119,13 @@
       {% if author.codechef %}
         <li><a href="{{ author.codechef }}"><i class="fas fa-laptop-code" aria-hidden="true"></i> Codechef</a></li>
       {% endif %}
-      {% if author.codeforces %}
+<!--       {% if author.codeforces %}
         <li><a href="{{ author.codeforces }}"><i class="fas fa-laptop-code" aria-hidden="true"></i> Codeforces</a></li>
-      {% endif %}
+      {% endif %}  -->
+      {% if author.codeforces %}
+        <li><a href="{{ author.codeforces }}"><span class="iconify" data-icon="simple-icons:codeforces" data-inline="false"></span> Codeforces</a></li>
+      {% endif %} 
+      
       
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
