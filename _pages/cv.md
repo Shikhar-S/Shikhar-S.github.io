@@ -37,6 +37,16 @@ Work experience
   * Search Engine: Implemented Information Retrieval methods like TF-IDF and Fuzzy Retrieval and compared
     their performance with precision-recall curves. Also developed a GUI for visualizing the results.
   
+Achievements
+======
+• **NTSE Scholarship**: Awarded by Govt of India.
+• **INSPIRE Scholarship**: Awarded by Govt of India to top 1% percentile scorers in ISC. 
+• **Merit Scholarship**: Top 2% of Batch in BITS Hyderabad.
+• **Codechef Rating**: Country rank 533/47826, Global Rank 1229/91711
+• **GATE CS**: Rank-107, Score-851
+• **GRE Score**: 330: 169-Q, 161-V, 4 AWA
+  
+  
 <!-- Skills
 ======
 * Skill 1
