@@ -36,6 +36,23 @@ Work experience
   * Indira Gandhi Centre for Atomic Research Kalpakkam, India
   * Search Engine: Implemented Information Retrieval methods like TF-IDF and Fuzzy Retrieval and compared
     their performance with precision-recall curves. Also developed a GUI for visualizing the results.
+    
+Technologies
+=====
+* Languages
+  * Python
+  * Java
+  * C++
+* Deep learning frameworks
+  *  Pytorch
+  *  Pytorch-Lightning
+  *  Keras
+  *  mlpack
+* Scikit-learn
+* NumPy
+* SciPy
+* Pandas
+* Hive
   
 Achievements
 ======
