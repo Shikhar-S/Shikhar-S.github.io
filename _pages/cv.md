@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Link](https://shikhar-s.github.io/files/Shikhar_NLP_20210731.pdf)
+[PDF Link](https://shikhar-s.github.io/files/IISc_Shikhar_CSA_MTechResearch.pdf)
 
 Education
 ======
