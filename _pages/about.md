@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a research student at the Indian Institute of Science. Through my research, I am trying to make programming accessible to all by applying Natural Language Processing techniques to source code. 
-
-Earlier I completed my Bachelors in Computer Science Engineering from BITS. Then I worked at Media net as a Software developer for one year.
-
-My academic interests include Natural Language Processing, Deep Learning, Machine Learning, Computational Geometry and Algorithms.
-
+Hi! I am a Pre-Doctoral Researcher at Google Research working with Dr. Partha Talukdar in the Languages group.
+I am interested in multimodal NLP and in understanding and developing Large Multimodal Language Models.
+Before joining Google, I did my Masters (by Research) at IISc, Bangalore and Bachelors from BITS Pilani, Hyderabad.
+There I worked with Dr. Shirish Shevade and Dr. Aditya Kanade by applying NLP techniques to source code. 
+My research goal is to make more accessible and inclusive language technologies.
+I completed my Bachelors in Computer Science Engineering from BITS.
+Then I worked at Media net as a Software developer for one year.
 I enjoy playing snooker and football, and competitive programming.
