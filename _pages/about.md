@@ -15,4 +15,4 @@ Prior to my tenure at Google, I pursued my Master's (Research) at the Indian Ins
 Besides my academic pursuits, I find joy in playing snooker and freestyle football (soccer). 
 
 For more information please refer to my [CV](https://shikhar-s.github.io/files/CV_20231115.pdf) and [publications](https://scholar.google.com/citations?user=pbU47_MAAAAJ&hl=en).
-I am always up for new collaborations! Feel free to reach out via email if you want to connect. :)
+I am always up for new collaborations! Feel free to reach out via email if you'd like to connect. :)
