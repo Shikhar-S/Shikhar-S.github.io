@@ -16,4 +16,4 @@ I am always up for new collaborations! Feel free to drop me an email if you want
 
 Besides my academic pursuits, I find joy in playing snooker and freestyle football (soccer). 
 
-[CV]() [Publications](https://scholar.google.com/citations?user=pbU47_MAAAAJ&hl=en)
+[CV](https://shikhar-s.github.io/files/CV_20231115.pdf) [Publications](https://scholar.google.com/citations?user=pbU47_MAAAAJ&hl=en)
