@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shikhar"
   avatar           : "me_image.jpeg"
-  bio              : "PhD student at CMU"
+  bio              : "PhD student at CMU. Research focuses on self-supervised learning and spoken language processing."
   location         : "India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
