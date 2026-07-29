@@ -1,18 +1,23 @@
-# Authors
+# Only authors needing special display (bold / links) must be listed here;
+# everyone else renders as plain text automatically.
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+"Shikhar Bharadwaj":
+  bold: true
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Advisors & mentors
+"David Mortensen":
+  url: https://www.cs.cmu.edu/~dmortens/
+"Shinji Watanabe":
+  url: https://sites.google.com/view/shinjiwatanabe/
+"Partha Talukdar":
+  url: https://parthatalukdar.github.io
+"Sriram Ganapathy":
+  url: https://ee.iisc.ac.in/sriram-ganapathy/
+"Shikhar Vashishth":
+  url: https://scholar.google.co.in/citations?user=gXW8J2wAAAAJ&hl=en
+
+# Collaborators with known homepages
+"Siddhant Arora":
+  url: https://siddhu001.github.io
+"Yifan Peng":
+  url: https://pyf98.github.io

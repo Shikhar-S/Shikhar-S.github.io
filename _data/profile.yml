@@ -1,0 +1,84 @@
+primary_name: "Shikhar Bharadwaj"
+secondary_name: ""
+navbar_name: "Shikhar Bharadwaj"
+
+positions:
+- logo: /assets/images/badges/CMU.svg
+  name: PhD Student @ Carnegie Mellon University
+
+address: Language Technologies Institute, Carnegie Mellon University, Pittsburgh, PA
+
+email: "sbharad2@andrew.cmu.edu"
+email2: "shikhar.ssu@gmail.com"
+cv_link: /files/CV_20260729.pdf
+gscholar: pbU47_MAAAAJ
+github: Shikhar-S
+# twitter: your_twitter_id
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio: >-
+  <p>Hi! I'm a PhD student at the <a href="https://lti.cs.cmu.edu/">Language Technologies Institute</a>,
+  Carnegie Mellon University, fortunate to be advised by
+  <a href="https://www.cs.cmu.edu/~dmortens/">Prof. David Mortensen</a> and
+  <a href="https://sites.google.com/view/shinjiwatanabe/">Prof. Shinji Watanabe</a>.
+  My research focuses on self-supervised learning and spoken language processing.
+  I'm especially interested in using speech to learn world knowledge.
+  This summer, I am a Research Scientist Intern at Meta Reality Labs.</p>
+
+  <p>Previously, I was a pre-doctoral researcher at Google DeepMind, working on low-resource language
+  capabilities for <a href="https://arxiv.org/abs/2507.06261">Gemini</a> with
+  <a href="https://parthatalukdar.github.io">Dr. Partha Talukdar</a>,
+  <a href="https://ee.iisc.ac.in/sriram-ganapathy/">Dr. Sriram Ganapathy</a> and
+  <a href="https://scholar.google.co.in/citations?user=gXW8J2wAAAAJ&hl=en">Dr. Shikhar Vashishth</a>.</p>
+
+  <p>Besides my research, I find joy in playing snooker and freestyle football (soccer).
+  I'm always open to collaborations, feel free to reach out!</p>
+
+portrait_url: /assets/images/photos/shikhar.jpg
+portrait_caption: >-
+  Shikhar Bharadwaj, Carnegie Mellon University.
+
+education:
+- name: Carnegie Mellon University
+  logo: /assets/images/badges/CMU.svg
+  dept: Language Technologies Institute
+  position: Ph.D. Student
+  date: Aug. 2024 - Present
+
+- name: Indian Institute of Science
+  logo: /assets/images/badges/IISc.svg
+  dept: Intelligent Systems
+  position: M.Tech (Research)
+  date: Aug. 2019 - Jun. 2022
+
+- name: BITS Pilani, Hyderabad
+  logo: /assets/images/badges/BITS.svg
+  dept: Computer Science
+  position: B.E. (Honors)
+  date: Aug. 2014 - Jun. 2018
+
+experience:
+- name: Meta Reality Labs
+  logo: /assets/images/badges/Meta.svg
+  position: Research Scientist Intern
+  date: May 2026 - Aug. 2026
+
+- name: Mitsubishi Electric Research Laboratories
+  logo: /assets/images/badges/MERL.svg
+  position: PhD Research Intern
+  date: May 2025 - Aug. 2025
+
+- name: Google DeepMind
+  logo: /assets/images/badges/GDM.svg
+  position: Pre-Doctoral Researcher
+  date: May 2022 - Jul. 2024
+
+- name: Microsoft Research
+  logo: /assets/images/badges/MSR.svg
+  position: Research Intern
+  date: Dec. 2017 - May 2018
+
+# awards:
+# - name: Award Name
+#   date: 2024
