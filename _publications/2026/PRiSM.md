@@ -25,4 +25,6 @@ authors:
 
 links:
   Paper: https://arxiv.org/abs/2601.14046
+  Code: https://github.com/changelinglab/prism
+  HuggingFace: https://huggingface.co/collections/changelinglab/prism
 ---

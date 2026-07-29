@@ -1,7 +1,5 @@
 pages:
 - name: Home
   url: /
-- name: Publications
-  url: /#Publications
 - name: CV
   url: /files/CV_20260729.pdf

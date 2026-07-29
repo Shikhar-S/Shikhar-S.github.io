@@ -17,9 +17,9 @@ navbar_title: Home
 {% endif %}
 {% endif %}
 
-{% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign pubs = site.publications | where: "selected", true | sort: "date" | reverse %}
 {%
     include widgets/publication_card.html
     publications=pubs
-    title='Publications'
+    title='Selected Work'
 %}

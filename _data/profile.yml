@@ -47,13 +47,13 @@ education:
   date: Aug. 2024 - Present
 
 - name: Indian Institute of Science
-  logo: /assets/images/badges/IISc.svg
+  logo: /assets/images/badges/IISc.png
   dept: Intelligent Systems
   position: M.Tech (Research)
   date: Aug. 2019 - Jun. 2022
 
 - name: BITS Pilani, Hyderabad
-  logo: /assets/images/badges/BITS.svg
+  logo: /assets/images/badges/BITS.png
   dept: Computer Science
   position: B.E. (Honors)
   date: Aug. 2014 - Jun. 2018

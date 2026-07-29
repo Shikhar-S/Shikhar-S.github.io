@@ -17,4 +17,5 @@ authors:
 links:
   Paper: https://arxiv.org/abs/2507.14129
   Code: https://github.com/Shikhar-S/OpenBEATs
+  HuggingFace: https://huggingface.co/collections/shikhar7ssu/openbeats
 ---

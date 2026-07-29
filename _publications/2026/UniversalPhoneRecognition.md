@@ -16,4 +16,7 @@ authors:
 
 links:
   Paper: https://arxiv.org/abs/2603.29042
+  Code: https://github.com/changelinglab/PhoneticXeus
+  Checkpoint: https://huggingface.co/changelinglab/PhoneticXeus
+  Demo: https://huggingface.co/spaces/changelinglab/PhoneticXeus
 ---
