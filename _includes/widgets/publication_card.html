@@ -1,7 +1,8 @@
 {% assign publications = include.publications %}
 <div class="my-3 p-0 bg-white shadow-sm rounded-sm">
-    <h4 class="border-bottom border-gray p-3 mb-0" id="Publications">
-        {{ include.title }} 
+    <h4 class="border-bottom border-gray p-3 mb-0 d-flex justify-content-between align-items-baseline" id="Publications">
+        <span>{{ include.title }}</span>
+        <span class="text-muted font-weight-normal" style="font-size: 0.7rem;">(* equal contribution)</span>
     </h4>
 
     {% for item in publications %}

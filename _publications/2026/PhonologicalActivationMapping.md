@@ -6,9 +6,9 @@ pub:            "arXiv preprint"
 pub_date:       "2026"
 
 authors:
-- Shikhar Bharadwaj
-- Kwanghee Choi
-- Stephen McIntosh
+- Shikhar Bharadwaj*
+- Kwanghee Choi*
+- Stephen McIntosh*
 - Chin-Jou Li
 - Eunjung Yeo
 - Daisuke Saito

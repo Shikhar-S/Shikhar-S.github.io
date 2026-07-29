@@ -16,4 +16,6 @@ authors:
 
 links:
   Paper: https://arxiv.org/abs/2601.16273
+  ckpt1: https://huggingface.co/shikhar7ssu/OpenBEATs-ICME
+  ckpt2: https://huggingface.co/shikhar7ssu/OpenBEATs-ICME-SOUND
 ---
