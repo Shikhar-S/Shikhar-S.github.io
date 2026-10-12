@@ -2,7 +2,7 @@
 title:          "Phone Segmentation and Recognition through Phonological Activation Mapping"
 date:           2026-07-10 00:01:00 -0500
 selected:       true
-pub:            "arXiv preprint"
+pub:            "IEEE Spoken Language Technology Workshop (SLT)"
 pub_date:       "2026"
 
 authors:
