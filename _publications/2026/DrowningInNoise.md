@@ -2,6 +2,7 @@
 title:          "Drowning in Noise: On Signal Saliency in Self-Supervised Learning for Ocean Acoustics"
 date:           2026-10-28 00:01:00 -0500
 selected:       true
+award:          "Best Student Paper Award"
 pub:            "Detection and Classification of Acoustic Scenes and Events Workshop (DCASE)"
 pub_date:       "2026"
 

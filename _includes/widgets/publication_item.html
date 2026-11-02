@@ -9,9 +9,9 @@
         {%- else -%}
         <div class="col p-3 ml-md-2">
         {%- endif -%}
-            <h6 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h6>
+            <h6 class="mt-0 mb-1 font-weight-normal">{% if item.award %}<span class="award-trophy" title="{{ item.award }}" aria-label="{{ item.award }}">🏆</span>{% endif %}{{ item.title }}</h6>
             <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
-            <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
+            <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}{% if item.award %} <span class="award-label">{{ item.award }}</span>{% endif %}</p>
             <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
             
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
@@ -37,9 +37,9 @@
     <div class="card-img-overlay d-flex align-items-start flex-column" style="background-color: rgba(255, 255, 255, 0.85);">
         <div class="mb-auto"></div>
         <div>
-            <h6 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h6>
+            <h6 class="mt-0 mb-1 font-weight-normal">{% if item.award %}<span class="award-trophy" title="{{ item.award }}" aria-label="{{ item.award }}">🏆</span>{% endif %}{{ item.title }}</h6>
             <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
-            <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}</p>
+            <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}{% if item.award %} <span class="award-label">{{ item.award }}</span>{% endif %}</p>
             <p class="mt-0 mb-0 small text-muted d-none d-sm-block">{{ item.abstract }}</p>
             
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">

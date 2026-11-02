@@ -126,3 +126,19 @@ img.lazy {
 .email-text {
     font-family: Courier, monospace;
 }
+
+.award-trophy {
+    font-size: 1.35em;
+    line-height: 1;
+    margin-right: 0.3rem;
+    vertical-align: -0.1em;
+}
+
+.award-label {
+    font-weight: 700;
+    color: var(--accent);
+    background-color: var(--highlight);
+    padding: 0.05rem 0.4rem;
+    border-radius: 0.2rem;
+    white-space: nowrap;
+}
