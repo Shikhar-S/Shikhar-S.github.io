@@ -136,9 +136,15 @@ img.lazy {
 
 .award-label {
     font-weight: 700;
-    color: var(--accent);
-    background-color: var(--highlight);
-    padding: 0.05rem 0.4rem;
-    border-radius: 0.2rem;
+    color: #B4532A;
     white-space: nowrap;
+    margin-left: 0.35rem;
+}
+
+.award-label::before {
+    content: "[";
+}
+
+.award-label::after {
+    content: "]";
 }
